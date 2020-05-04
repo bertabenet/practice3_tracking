@@ -11,7 +11,10 @@ This project contains a little test on how the PoseNetOSC works for unity. More 
 | Right Ankle | Purple |
 | Left Ankle | Yellow |
 
-The objective is to match each cube with the sphere of the same color all at once. 
+The objective is to match each cube with the sphere of the same color all at once.
+
+Author's note:
+I chose this implementation because it will serve useful for the implementation of the final project since we aim to recreate a gameplay where a person has to make an specific pose with their body.
 
 
 _________________________
